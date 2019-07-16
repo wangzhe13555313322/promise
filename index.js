@@ -1,6 +1,3 @@
-
-
-
 const PENDING = 'pending'
 const SUCCESS = 'fulfilled'
 const FAIL = 'rejected'
